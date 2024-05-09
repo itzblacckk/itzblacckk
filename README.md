@@ -5,8 +5,5 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<img src="https://i.pinimg.com/originals/dd/c3/2d/ddc32d1a6214029e81b430fa55570d05.gif" style="width=100%" ></img>
-<!---
-itzblacckk/itzblacckk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://i.pinimg.com/originals/14/0b/89/140b89b88713a18ab0d68f80fa30b055.gif" style="width=100%" ></img>
+
