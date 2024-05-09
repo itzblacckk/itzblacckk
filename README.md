@@ -6,5 +6,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 
-<img src="https://i.pinimg.com/originals/14/0b/89/140b89b88713a18ab0d68f80fa30b055.gif"></img>
+![](https://i.pinimg.com/originals/14/0b/89/140b89b88713a18ab0d68f80fa30b055.gif)
 
